@@ -25,7 +25,7 @@ The project has been completed within the duration of 4 days. Each of us had sha
 
 ## Glimpse and screenshots of our cloned website:
 **Landing Page**
-![App Screenshot](https://github.com/Sarthak690/Naukri/blob/main/Screenshots/LandingPage.png)
+![App Screenshot](https://github.com/Sarthak690/Naukri.com---Clone/blob/main/Screenshots/LandingPage.png)
 
 **Registration Page**
 ![App Screenshot](https://github.com/Sarthak690/Naukri.com---Clone/blob/main/Screenshots/RegisterPage.png)
