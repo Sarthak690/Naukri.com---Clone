@@ -5,8 +5,6 @@
 ## Project Details:
 Naukri.com is an Indian employment website operating in India and Middle East. Naukri.com was founded in March 1997 by Indian businessman Sanjeev Bikhchandani, who started Info Edge Ltd. in 1995. As part of our unit 4 at Masai School, we were given to clone the [Naukri.com](https://www.naukri.com/) website.
 
-The project has been completed within the duration of 4 days. Each of us had shared work and responsibilities and learnt a lot during the course of this project.
-
 **Original website link**: https://www.naukri.com/
 
 
